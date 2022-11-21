@@ -1,0 +1,39 @@
+body{
+    background-color: bisque;
+}
+
+.container{
+    background-color: rgb(190, 162, 126);
+    width: auto;
+    text-align: center;
+    border: 2px solid black;
+    list-style-position: inside;
+}
+
+#site-adi{
+    color: rgb(116, 78, 32);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: rgb(145, 106, 59);
+}
+
+h3{
+    color: rgb(102, 88, 73);
+}
+
+.resim{
+    max-height: 40% ;
+    max-width: 40% ;
+    align-content: center;
+    display: inline-block;
+    list-style-position: outside;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+     
+}
+
